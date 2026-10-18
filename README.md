@@ -1,6 +1,8 @@
 # TaskFlow API
 [![CI](https://github.com/EstebanEdz/taskflow-api/actions/workflows/ci.yml/badge.svg)](https://github.com/EstebanEdz/taskflow-api/actions/workflows/ci.yml)
 
+![Swagger UI](docs/swagger.png)
+
 API REST para gestión de proyectos y tareas. ASP.NET Core 8 · EF Core · SQL Server · JWT · xUnit.
 
 ## Requisitos
