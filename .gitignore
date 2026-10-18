@@ -1,0 +1,22 @@
+# Compilación
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+TestResults/
+*.log
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Configuración local (cadena de conexión propia, secretos). Usa appsettings.Development.example.json como plantilla.
+appsettings.Development.json
+secrets.json
+
+# Sistema
+Thumbs.db
+.DS_Store
